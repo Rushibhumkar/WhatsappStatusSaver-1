@@ -1,0 +1,275 @@
+[33mcommit 38c4984d0dedbc66da913178bfe8eec0fe400dba[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;31mnew-origin/master[m[33m)[m
+Author: Rohit Rajendra Barate <rohitbarate100@gmail.com>
+Date:   Fri Aug 18 23:05:09 2023 +0530
+
+    release build changes
+
+[33mcommit 45575ea3fcff16b1f8886d837f4397c2b5870adb[m
+Author: Rohit Rajendra Barate <rohitbarate100@gmail.com>
+Date:   Fri Aug 18 12:47:12 2023 +0530
+
+    some ads changes
+
+[33mcommit f43171e61b59c1b20f6b5c256bef061ffbb01eeb[m
+Author: Rohit Rajendra Barate <rohitbarate100@gmail.com>
+Date:   Thu Aug 17 14:47:45 2023 +0530
+
+    privacy & license screen added
+
+[33mcommit 5c2e94ec48e0636f930d2fb137ee3c27b8252680[m
+Author: Rohit Rajendra Barate <rohitbarate100@gmail.com>
+Date:   Thu Aug 17 14:46:51 2023 +0530
+
+    some changes
+
+[33mcommit 618df03f5f53ff18624a5859c384c2c73effdc46[m
+Author: Rohit Rajendra Barate <rohitbarate100@gmail.com>
+Date:   Wed Aug 16 14:30:22 2023 +0530
+
+    show ads code improved
+
+[33mcommit 5b04943648acfbf0b390e7caafd945296639c176[m
+Author: Rohit Rajendra Barate <rohitbarate100@gmail.com>
+Date:   Wed Aug 16 14:19:33 2023 +0530
+
+    some changes
+
+[33mcommit 7011033e9a82b38e3bf3e3837661c31814d457ce[m
+Author: Rohit Rajendra Barate <rohitbarate100@gmail.com>
+Date:   Wed Aug 16 14:19:24 2023 +0530
+
+    share app image added
+
+[33mcommit 4c92b15a73d639774286983ebbd51375dc438af5[m
+Author: Rohit Rajendra Barate <rohitbarate100@gmail.com>
+Date:   Tue Aug 15 00:09:27 2023 +0530
+
+    ext storage bug removed
+
+[33mcommit 2d46368b2e56ecebe9d75fcca36f30e391455256[m
+Author: Rohit Rajendra Barate <rohitbarate100@gmail.com>
+Date:   Wed Aug 9 20:05:28 2023 +0530
+
+    some changes
+
+[33mcommit b62cafdae235a617ae3f71c1783d2b56a08130b9[m
+Author: Rohit Rajendra Barate <rohitbarate100@gmail.com>
+Date:   Mon Aug 7 14:42:50 2023 +0530
+
+    some changes
+
+[33mcommit 7d611f891436f56e2a6a821638686ca5a02a980c[m
+Author: Rohit Rajendra Barate <rohitbarate100@gmail.com>
+Date:   Mon Aug 7 14:31:49 2023 +0530
+
+    local notification added successfully
+
+[33mcommit c4b8da8c9dfac31cc0cdbbf71e7c98c1341c3674[m
+Author: Rohit Rajendra Barate <rohitbarate100@gmail.com>
+Date:   Mon Aug 7 13:46:49 2023 +0530
+
+    local notification added successfully
+
+[33mcommit f2296baf81d1e84d26bf3883984e143599d75559[m
+Author: Rohit Rajendra Barate <rohitbarate100@gmail.com>
+Date:   Mon Aug 7 01:01:16 2023 +0530
+
+    img added for scoped permission
+
+[33mcommit e3637d51c1e3c75d63e5c9c9192ed4f6d85a01f5[m
+Author: Rohit Rajendra Barate <rohitbarate100@gmail.com>
+Date:   Sun Aug 6 23:52:55 2023 +0530
+
+    code optimized
+
+[33mcommit 6849290a59b7dbb15d71cde9b48a31082c83aa3f[m
+Author: Rohit Rajendra Barate <rohitbarate100@gmail.com>
+Date:   Sun Aug 6 10:51:59 2023 +0530
+
+    report bug and suggest feasture form added
+
+[33mcommit 03d7d92c8db7cdfadac0a82961dd183ab96db15d[m
+Author: Rohit Rajendra Barate <rohitbarate100@gmail.com>
+Date:   Sat Aug 5 16:42:02 2023 +0530
+
+    app type conditions complete
+
+[33mcommit 9e39ba5690df99cb5aae0269381f00ae928985d5[m
+Author: Rohit Rajendra Barate <rohitbarate100@gmail.com>
+Date:   Sat Aug 5 16:14:14 2023 +0530
+
+    app type conditions complete
+
+[33mcommit 0f9c739450d00b00adda2bf81587df75bf96566a[m
+Author: Rohit Rajendra Barate <rohitbarate100@gmail.com>
+Date:   Fri Aug 4 21:01:46 2023 +0530
+
+    Added app type conditions
+
+[33mcommit 1c2fba34eb8272f7e35025ae6d82da2cbfa85a5a[m
+Author: Rohit Rajendra Barate <rohitbarate100@gmail.com>
+Date:   Thu Aug 3 23:18:05 2023 +0530
+
+    env added to gitignore
+
+[33mcommit f7e561c7a7757dc8e86a2cf2deb5a998ed0b2ab0[m
+Author: Rohit Rajendra Barate <rohitbarate100@gmail.com>
+Date:   Thu Aug 3 23:16:40 2023 +0530
+
+    app type option dialogue added
+
+[33mcommit a5c5f0bef007e69f1b122c0951864e2bfa0794a9[m
+Author: Rohit Rajendra Barate <rohitbarate100@gmail.com>
+Date:   Thu Aug 3 13:12:47 2023 +0530
+
+    share app functionality added
+
+[33mcommit 56c7ab89d6d073e2777a5cb708980d78338b6558[m
+Author: Rohit Rajendra Barate <rohitbarate100@gmail.com>
+Date:   Thu Aug 3 13:12:09 2023 +0530
+
+    content uri to absolute path
+
+[33mcommit 326e371a944eee6d63bebc7bf5770c7d7feb088c[m
+Author: Rohit Rajendra Barate <rohitbarate100@gmail.com>
+Date:   Wed Aug 2 12:18:02 2023 +0530
+
+    statusview alignment done
+
+[33mcommit 9f6c89541776deade2b0997d2984ce7e3d94f89d[m
+Author: Rohit Rajendra Barate <rohitbarate100@gmail.com>
+Date:   Wed Aug 2 11:04:56 2023 +0530
+
+    created module for getting absolute path
+
+[33mcommit 0510975e49c72c52e6085e6342e1448d5b853f85[m
+Author: Rohit Rajendra Barate <rohitbarate100@gmail.com>
+Date:   Wed Aug 2 10:07:32 2023 +0530
+
+    media scanner module added
+
+[33mcommit a0482cf3594bafc677a69c1d43f81966186fedc1[m
+Author: Rohit Rajendra Barate <rohitbarate100@gmail.com>
+Date:   Wed Aug 2 10:05:09 2023 +0530
+
+    media scanner module added
+
+[33mcommit a1078efb546473ae9fd4e4b059504f05108806d8[m
+Author: Rohit Rajendra Barate <rohitbarate100@gmail.com>
+Date:   Wed Aug 2 10:05:01 2023 +0530
+
+    media scanner module added
+
+[33mcommit 220be737148fbb3d51303d2119260a7270181877[m
+Author: Rohit Rajendra Barate <rohitbarate100@gmail.com>
+Date:   Tue Aug 1 10:28:21 2023 +0530
+
+    RNFSDCIMDirectoryPath added to "react-native-fs"
+
+[33mcommit 6b7adb75696240cf9e6fb402dfa885a6fb3951a4[m
+Author: Rohit Rajendra Barate <rohitbarate100@gmail.com>
+Date:   Mon Jul 31 20:26:56 2023 +0530
+
+    get statuses function added into context
+
+[33mcommit 19a9337d8d39dc9e1d0f2aeac3d6d07eb1f3a78a[m
+Author: Rohit Rajendra Barate <rohitbarate100@gmail.com>
+Date:   Sun Jul 30 00:12:49 2023 +0530
+
+    storage permission condition added
+
+[33mcommit af5b0ff86602a3f5e83e03899fbb799889a8d5e8[m
+Author: Rohit Rajendra Barate <rohitbarate100@gmail.com>
+Date:   Sat Jul 29 15:56:36 2023 +0530
+
+    app context added
+
+[33mcommit d39eed4d25801ec415335bb4de1bcdba6532cfb4[m
+Author: Rohit Rajendra Barate <rohitbarate100@gmail.com>
+Date:   Fri Jul 28 23:09:33 2023 +0530
+
+    setting option added
+
+[33mcommit 50f56bc73ea8e1e95d1dd205c8fb4fcf88fecd96[m
+Author: Rohit Rajendra Barate <rohitbarate100@gmail.com>
+Date:   Wed Jul 26 23:03:36 2023 +0530
+
+    file permission code modified
+
+[33mcommit 85bf4d4daa5382427dc08a5b8bae9171bc5df8db[m
+Author: Rohit Rajendra Barate <rohitbarate100@gmail.com>
+Date:   Wed Jul 26 20:00:07 2023 +0530
+
+    some changes
+
+[33mcommit 0643ffd26b3ac61581e49dd4523a44471465d707[m
+Author: Rohit Rajendra Barate <rohitbarate100@gmail.com>
+Date:   Mon Jul 24 22:43:52 2023 +0530
+
+    icon changes
+
+[33mcommit 79a32658992e2030e462828cbb5be23800d81cae[m
+Author: Rohit Rajendra Barate <rohitbarate100@gmail.com>
+Date:   Mon Jul 24 22:22:59 2023 +0530
+
+    splash screen and logo added
+
+[33mcommit b550660369fc51e7aec2dbe6e0880e3441d051aa[m
+Author: Rohit Rajendra Barate <rohitbarate100@gmail.com>
+Date:   Sun Jul 23 01:01:27 2023 +0530
+
+    new filter view added
+
+[33mcommit 6a094ceabe7c6d1370ad9485b0e290b2596a33ee[m
+Author: Rohit Rajendra Barate <rohitbarate100@gmail.com>
+Date:   Sat Jul 22 02:19:34 2023 +0530
+
+    cp function done
+
+[33mcommit 119e45b7fbfbb096ec05b4bf40547c9ec368e4fd[m
+Author: Rohit Rajendra Barate <rohitbarate100@gmail.com>
+Date:   Sat Jul 22 02:19:30 2023 +0530
+
+    download status completed
+
+[33mcommit fa6fde920c670ec58467c5bd94f383b943caf674[m
+Author: Rohit Rajendra Barate <rohitbarate100@gmail.com>
+Date:   Sun Jun 25 13:56:34 2023 +0530
+
+    access scoped storage done method 1
+
+[33mcommit 85cf7e03ead41237ae4e136c44295d70f78e3415[m
+Author: Rohit Rajendra Barate <rohitbarate100@gmail.com>
+Date:   Sun Jun 25 13:56:16 2023 +0530
+
+    access scoped storage done method 1
+
+[33mcommit 83193e91ac4f35613d3eadd42a1aa21300908b31[m
+Author: Rohit Rajendra Barate <rohitbarate100@gmail.com>
+Date:   Mon Jun 19 00:06:43 2023 +0530
+
+    download statuses and show it
+
+[33mcommit 9815b036f5f33ae4f230751f710d8926eb219414[m
+Author: Rohit Rajendra Barate <rohitbarate100@gmail.com>
+Date:   Sun Jun 18 00:42:13 2023 +0530
+
+    video component added
+
+[33mcommit d6dfe572c327ab5ccadecad320da824110447dcd[m
+Author: Rohit Rajendra Barate <rohitbarate100@gmail.com>
+Date:   Sun Jun 18 00:39:44 2023 +0530
+
+    video component added
+
+[33mcommit 89258ce38a34d3382e77ab193675058fcb933147[m
+Author: Rohit Rajendra Barate <rohitbarate100@gmail.com>
+Date:   Sun Jun 18 00:35:28 2023 +0530
+
+    video component added
+
+[33mcommit b3f948d9be4f97666e4754e1f6060f9e5a426c46[m
+Author: Rohit Rajendra Barate <rohitbarate100@gmail.com>
+Date:   Thu Jun 15 02:08:09 2023 +0530
+
+    home screen done
